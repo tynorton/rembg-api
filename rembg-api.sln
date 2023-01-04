@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33209.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rembg-api", "rembg-api\rembg-api.csproj", "{57FEB105-65C2-436B-969F-D5A1B8B6387B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57FEB105-65C2-436B-969F-D5A1B8B6387B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FEB105-65C2-436B-969F-D5A1B8B6387B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FEB105-65C2-436B-969F-D5A1B8B6387B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FEB105-65C2-436B-969F-D5A1B8B6387B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80D06E23-3A5B-4C41-AB99-4E42854C3894}
+	EndGlobalSection
+EndGlobal
